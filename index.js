@@ -2,7 +2,6 @@
 // Import the node packages and directories required
 const inquirer = require("inquirer");
 const fs = require("fs");
-//const { Triangle, Square, Circle } = require("lib/shapes.js");
 
 // userResponses() function will prompt the user to answer questions in the command line
 function userResponses() {
@@ -29,7 +28,7 @@ function userResponses() {
                 name: 'shapeColor',
                 message: 'What color would you like the logo shape to be(enter color keyword or hexadecimal number):'
             }
-// Conditional statement will check
+// Conditional statement will check whether it is a circle, triangle, or square and write the logo to an SVG file.
         ]).then(function (results) {
             if (results.shape == "circle") {
                 fs.writeFile("logo.svg", `
