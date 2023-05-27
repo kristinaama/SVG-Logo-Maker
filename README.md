@@ -38,6 +38,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   
   [![SVG Logo Generator Video](SVG Logo Generator.mp4)]
 
+https://github.com/kristinaama/SVG-Logo-Maker/assets/127279859/b13a91a3-9f05-4d56-924e-901f5ec92985
+
   An example of how to use this ReadMe Generator can be found here: https://drive.google.com/file/d/1_BLNyqlSbx00Q41yb7ao20HXRdTcno2e/view?usp=sharing
   
   ## Contributions:
